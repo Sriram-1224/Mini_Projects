@@ -1,0 +1,2 @@
+what is Java?|Language|OS|Browser|Game|A
+which of the following is not a feature of Java?|OOP|Platorm Independent|Use of Pointers|Robust|C
